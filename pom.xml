@@ -15,7 +15,7 @@
         <slf4j-api.version>1.7.25</slf4j-api.version>
         <slf4j-simple.version>1.7.25</slf4j-simple.version>
         <slf4j-log4j12.version>1.7.22</slf4j-log4j12.version>
-        <slf4j-ext.version>1.7.25</slf4j-ext.version>
+        <slf4j-ext.version>1.7.26</slf4j-ext.version>
         <log4j-api.version>2.7</log4j-api.version>
         <log4j-core.version>2.7</log4j-core.version>
         <log4j-slf4j-impl>2.7</log4j-slf4j-impl>
